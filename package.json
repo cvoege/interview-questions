@@ -1,0 +1,13 @@
+{
+  "name": "interview-questions",
+  "version": "0.0.1",
+  "description": "Mimir's new frontend",
+  "scripts": {
+  },
+  "main": "./dist/main.js",
+  "devDependencies": {
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.12.0"
+  },
+  "dependencies": {}
+}
